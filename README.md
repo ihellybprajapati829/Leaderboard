@@ -1,1 +1,3 @@
 # Leaderboard
+
+Summer Theme Leaderboard.
